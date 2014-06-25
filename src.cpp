@@ -1,16 +1,10 @@
 /*
  * A model of protective mutualism
  * Uses a lattice with different productivity on each patch
- * Tim Poisot 2013
+ * Timothée Poisot 2013
+ * t.poisot@gmail.com
  * Released under the terms of the GPL
  * Uses the GNU Scientific Library
- *
- * Compiles and runs on Arch Linux
- *
- * type
- * make run
- * to start the simulation
- *
  */
 
 #include <iostream>
